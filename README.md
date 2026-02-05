@@ -1,3 +1,6 @@
+## CMSE 822: Parallel Computing Final Project
+First, give a brief description of your project topic idea and detail how you will address each of the specific project requirements given in this [here.](https://cmse822.github.io/projects) 
+
 ### Alternating Direction Method of Multilpliers (ADMM) Algortithm for LASSO.
 #### Project Description:
 
